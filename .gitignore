@@ -1,0 +1,12 @@
+.claude/
+.venv/
+.idea/
+dataset/
+dataset_processed/
+weights/
+CLAUDE.md
+*.png
+*.jpg
+*.pt
+.env
+*.zip
